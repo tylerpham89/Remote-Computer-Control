@@ -46,7 +46,7 @@
     it directly from the server.
 
 -   On the vm, I go directly to the http server
-    ([[http://192.168.7.132/payload.exe]{.underline}](http://192.168.7.132/payload.exe))
+    ([[http://192.168.7.132/payload.exe]](http://192.168.7.132/payload.exe))
     which automatically downloads the payload. I go ahead and execute it
 
     -   ![](images/media/image8.png)
