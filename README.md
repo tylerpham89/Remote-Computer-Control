@@ -8,7 +8,7 @@
 
 -   I run sudo apt update && sudo apt full-upgrade -y
 
-    -   ![](images/media/image7.png){width="13.458333333333334in"
+    -   ![](images\media\image7.png){width="13.458333333333334in"
         height="9.885416666666666in"}
 
 -   Lets confirm our ip to generate payloads
