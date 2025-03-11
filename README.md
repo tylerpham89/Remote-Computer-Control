@@ -9,7 +9,7 @@
 
 -   I run sudo apt update && sudo apt full-upgrade -y
 
-    -   ![](images\media\image7.png)
+    -   ![](images/media/image7.png)
 
 -   Lets confirm our ip to generate payloads
 
